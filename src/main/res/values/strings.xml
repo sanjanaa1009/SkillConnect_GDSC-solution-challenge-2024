@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="open" translatable="false">Open Navigation Drawer</string>
+    <string name="close" translatable="false">Close Navigation Drawer</string>
+</resources>

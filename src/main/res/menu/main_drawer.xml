@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:icon="@drawable/setting"
+        android:id="@+id/setting"
+        android:title="Setting"/>
+
+    <item
+        android:id="@+id/approved"
+        android:title="Approved"
+        android:icon="@drawable/approved"/>
+
+    <item
+        android:id="@+id/Pending"
+        android:title="Pending"
+        android:icon="@drawable/pending"/>
+
+    <item
+        android:id="@+id/rejected"
+        android:title="rejected"
+        android:icon="@drawable/rejected"/>
+
+    <item
+        android:id="@+id/signout"
+        android:title="signout"
+        android:icon="@drawable/signout"/>
+
+
+</group>
+</menu>
